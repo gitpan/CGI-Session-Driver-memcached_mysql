@@ -1,0 +1,4 @@
+Revision history for Perl extension CGI::Session::Driver::memcached_mysql.
+
+0.01  Tue Aug 15 00:15:42 2006
+        - The first release
